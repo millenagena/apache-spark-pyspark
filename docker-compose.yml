@@ -1,0 +1,16 @@
+services:
+  jupyter:
+    image: estudo-spark:1.0        # nome da imagem que o build cria
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "127.0.0.1:8888:8888"             # Jupyter, so acessivel da sua maquina
+      - "127.0.0.1:4040-4045:4040-4045"   # Spark UI: uma porta por sessao Spark aberta (ate 6 notebooks)
+    volumes:
+      - .:/home/jovyan/work        # a pasta do projeto aparece em ~/work no Jupyter
+    working_dir: /home/jovyan/work
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "estudo"
+      PYTHONPATH: /home/jovyan/work/src
