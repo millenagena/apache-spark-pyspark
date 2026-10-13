@@ -1,0 +1,105 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials
+2026,11 Jun 2026 - 19:00,Group A,,,Mexico,2,0,South Africa,,,1,0,Wilton Sampaio,,,2026,537327,MEX,RSA
+2026,12 Jun 2026 - 02:00,Group A,,,South Korea,2,1,Czechia,,,0,0,Amin Omar,,,2026,537328,KOR,CZE
+2026,12 Jun 2026 - 19:00,Group B,,,Canada,1,1,Bosnia-Herzegovina,,,0,1,Facundo Tello,,,2026,537333,CAN,BIH
+2026,13 Jun 2026 - 01:00,Group D,,,United States,4,1,Paraguay,,,3,0,Danny Makkelie,,,2026,537345,USA,PAR
+2026,13 Jun 2026 - 19:00,Group B,,,Qatar,1,1,Switzerland,,,0,1,Said Martinez,,,2026,537334,QAT,SUI
+2026,13 Jun 2026 - 22:00,Group C,,,Brazil,1,1,Morocco,,,1,1,Slavko Vinčič,,,2026,537339,BRA,MAR
+2026,14 Jun 2026 - 01:00,Group C,,,Haiti,0,1,Scotland,,,0,1,Mustapha Ghorbal,,,2026,537340,HAI,SCO
+2026,14 Jun 2026 - 04:00,Group D,,,Australia,2,0,Turkey,,,1,0,Jesús Valenzuela,,,2026,537346,AUS,TUR
+2026,14 Jun 2026 - 17:00,Group E,,,Germany,7,1,Curaçao,,,3,1,Jalal Jayed,,,2026,537351,GER,CUW
+2026,14 Jun 2026 - 20:00,Group F,,,Netherlands,2,2,Japan,,,0,0,Ismail Elfath,,,2026,537357,NED,JPN
+2026,14 Jun 2026 - 23:00,Group E,,,Ivory Coast,1,0,Ecuador,,,0,0,François Letexier,,,2026,537352,CIV,ECU
+2026,15 Jun 2026 - 02:00,Group F,,,Sweden,5,1,Tunisia,,,2,1,Yael Falcón,,,2026,537358,SWE,TUN
+2026,15 Jun 2026 - 16:00,Group H,,,Spain,0,0,Cape Verde Islands,,,0,0,Adham Makhadmeh,,,2026,537369,ESP,CPV
+2026,15 Jun 2026 - 19:00,Group G,,,Belgium,1,1,Egypt,,,0,1,Ramon Abatti Abel,,,2026,537363,BEL,EGY
+2026,15 Jun 2026 - 22:00,Group H,,,Saudi Arabia,1,1,Uruguay,,,1,0,Maurizio Mariani,,,2026,537370,KSA,URU
+2026,16 Jun 2026 - 01:00,Group G,,,Iran,2,2,New Zealand,,,1,1,César Ramos,,,2026,537364,IRN,NZL
+2026,16 Jun 2026 - 19:00,Group I,,,France,3,1,Senegal,,,0,0,Alireza Faghani,,,2026,537391,FRA,SEN
+2026,16 Jun 2026 - 22:00,Group I,,,Iraq,1,4,Norway,,,1,2,Pierre Atcho,,,2026,537392,IRQ,NOR
+2026,17 Jun 2026 - 01:00,Group J,,,Argentina,3,0,Algeria,,,1,0,Szymon Marciniak,,,2026,537397,ARG,ALG
+2026,17 Jun 2026 - 04:00,Group J,,,Austria,3,1,Jordan,,,1,0,Dahane Beida,,,2026,537398,AUT,JOR
+2026,17 Jun 2026 - 17:00,Group K,,,Portugal,1,1,Congo DR,,,1,1,Abdulrahman Al Jassim,,,2026,537403,POR,COD
+2026,17 Jun 2026 - 20:00,Group L,,,England,4,2,Croatia,,,2,2,Clément Turpin,,,2026,537409,ENG,CRO
+2026,17 Jun 2026 - 23:00,Group L,,,Ghana,1,0,Panama,,,0,0,Glenn Nyberg,,,2026,537410,GHA,PAN
+2026,18 Jun 2026 - 02:00,Group K,,,Uzbekistan,1,3,Colombia,,,0,1,Anthony Taylor,,,2026,537404,UZB,COL
+2026,18 Jun 2026 - 16:00,Group A,,,Czechia,1,1,South Africa,,,1,0,Tori Penso,,,2026,537329,CZE,RSA
+2026,18 Jun 2026 - 19:00,Group B,,,Switzerland,4,1,Bosnia-Herzegovina,,,0,0,João Pinheiro,,,2026,537335,SUI,BIH
+2026,18 Jun 2026 - 22:00,Group B,,,Canada,6,0,Qatar,,,3,0,Cristián Garay,,,2026,537336,CAN,QAT
+2026,19 Jun 2026 - 01:00,Group A,,,Mexico,1,0,South Korea,,,0,0,Gustavo Tejera,,,2026,537330,MEX,KOR
+2026,19 Jun 2026 - 19:00,Group D,,,United States,2,0,Australia,,,2,0,Felix Zwayer,,,2026,537348,USA,AUS
+2026,19 Jun 2026 - 22:00,Group C,,,Scotland,0,1,Morocco,,,0,1,Il'giz Tantashev,,,2026,537342,SCO,MAR
+2026,20 Jun 2026 - 00:30,Group C,,,Brazil,3,0,Haiti,,,3,0,Alejandro Hernández Hernández,,,2026,537341,BRA,HAI
+2026,20 Jun 2026 - 03:00,Group D,,,Turkey,0,1,Paraguay,,,0,1,Ivan Barton,,,2026,537347,TUR,PAR
+2026,20 Jun 2026 - 17:00,Group F,,,Netherlands,5,1,Sweden,,,2,0,Michael Oliver,,,2026,537359,NED,SWE
+2026,20 Jun 2026 - 20:00,Group E,,,Germany,2,1,Ivory Coast,,,0,1,Juan Benítez,,,2026,537353,GER,CIV
+2026,21 Jun 2026 - 00:00,Group E,,,Ecuador,0,0,Curaçao,,,0,0,Ning Ma,,,2026,537354,ECU,CUW
+2026,21 Jun 2026 - 04:00,Group F,,,Tunisia,0,4,Japan,,,0,2,István Kovács,,,2026,537360,TUN,JPN
+2026,21 Jun 2026 - 16:00,Group H,,,Spain,4,0,Saudi Arabia,,,3,0,Raphael Claus,,,2026,537371,ESP,KSA
+2026,21 Jun 2026 - 19:00,Group G,,,Belgium,0,0,Iran,,,0,0,Darío Herrera,,,2026,537365,BEL,IRN
+2026,21 Jun 2026 - 22:00,Group H,,,Uruguay,2,2,Cape Verde Islands,,,2,1,Espen Eskås,,,2026,537372,URU,CPV
+2026,22 Jun 2026 - 01:00,Group G,,,New Zealand,1,3,Egypt,,,1,0,Omar Mohamed Al Ali,,,2026,537366,NZL,EGY
+2026,22 Jun 2026 - 17:00,Group J,,,Argentina,2,0,Austria,,,1,0,Amin Omar,,,2026,537399,ARG,AUT
+2026,22 Jun 2026 - 21:00,Group I,,,France,3,0,Iraq,,,1,0,Drew Fischer,,,2026,537393,FRA,IRQ
+2026,23 Jun 2026 - 00:00,Group I,,,Norway,3,2,Senegal,,,1,0,Wilton Sampaio,,,2026,537394,NOR,SEN
+2026,23 Jun 2026 - 03:00,Group J,,,Jordan,1,2,Algeria,,,1,0,Slavko Vinčič,,,2026,537400,JOR,ALG
+2026,23 Jun 2026 - 17:00,Group K,,,Portugal,5,0,Uzbekistan,,,3,0,Jalal Jayed,,,2026,537405,POR,UZB
+2026,23 Jun 2026 - 20:00,Group L,,,England,0,0,Ghana,,,0,0,Said Martinez,,,2026,537411,ENG,GHA
+2026,23 Jun 2026 - 23:00,Group L,,,Panama,0,1,Croatia,,,0,0,,,,2026,537412,PAN,CRO
+2026,24 Jun 2026 - 02:00,Group K,,,Colombia,1,0,Congo DR,,,0,0,,,,2026,537406,COL,COD
+2026,24 Jun 2026 - 19:00,Group B,,,Switzerland,2,1,Canada,,,0,0,Ramon Abatti Abel,,,2026,537337,SUI,CAN
+2026,24 Jun 2026 - 19:00,Group B,,,Bosnia-Herzegovina,3,1,Qatar,,,2,1,Jesús Valenzuela,,,2026,537338,BIH,QAT
+2026,24 Jun 2026 - 22:00,Group C,,,Morocco,4,2,Haiti,,,2,2,Danny Makkelie,,,2026,537344,MAR,HAI
+2026,24 Jun 2026 - 22:00,Group C,,,Scotland,0,3,Brazil,,,0,2,César Ramos,,,2026,537343,SCO,BRA
+2026,25 Jun 2026 - 01:00,Group A,,,Czechia,0,3,Mexico,,,0,0,Yael Falcón,,,2026,537331,CZE,MEX
+2026,25 Jun 2026 - 01:00,Group A,,,South Africa,1,0,South Korea,,,0,0,Facundo Tello,,,2026,537332,RSA,KOR
+2026,25 Jun 2026 - 20:00,Group E,,,Ecuador,2,1,Germany,,,1,1,Tori Penso,,,2026,537355,ECU,GER
+2026,25 Jun 2026 - 20:00,Group E,,,Curaçao,0,2,Ivory Coast,,,0,1,Glenn Nyberg,,,2026,537356,CUW,CIV
+2026,25 Jun 2026 - 23:00,Group F,,,Tunisia,1,3,Netherlands,,,0,2,Katia García,,,2026,537361,TUN,NED
+2026,25 Jun 2026 - 23:00,Group F,,,Japan,1,1,Sweden,,,0,0,Ivan Barton,,,2026,537362,JPN,SWE
+2026,26 Jun 2026 - 02:00,Group D,,,Turkey,3,2,United States,,,2,1,Mustapha Ghorbal,,,2026,537349,TUR,USA
+2026,26 Jun 2026 - 02:00,Group D,,,Paraguay,0,0,Australia,,,0,0,Clément Turpin,,,2026,537350,PAR,AUS
+2026,26 Jun 2026 - 19:00,Group I,,,Norway,1,4,France,,,1,3,Michael Oliver,,,2026,537395,NOR,FRA
+2026,26 Jun 2026 - 19:00,Group I,,,Senegal,5,0,Iraq,,,1,0,Anthony Taylor,,,2026,537396,SEN,IRQ
+2026,27 Jun 2026 - 00:00,Group H,,,Uruguay,0,1,Spain,,,0,1,Ismail Elfath,,,2026,537373,URU,ESP
+2026,27 Jun 2026 - 00:00,Group H,,,Cape Verde Islands,0,0,Saudi Arabia,,,0,0,François Letexier,,,2026,537374,CPV,KSA
+2026,27 Jun 2026 - 03:00,Group G,,,New Zealand,1,5,Belgium,,,0,1,Adham Makhadmeh,,,2026,537367,NZL,BEL
+2026,27 Jun 2026 - 03:00,Group G,,,Egypt,1,1,Iran,,,1,1,Szymon Marciniak,,,2026,537368,EGY,IRN
+2026,27 Jun 2026 - 21:00,Group L,,,Panama,0,2,England,,,0,0,Abdulrahman Al Jassim,,,2026,537413,PAN,ENG
+2026,27 Jun 2026 - 21:00,Group L,,,Croatia,2,1,Ghana,,,1,0,Drew Fischer,,,2026,537414,CRO,GHA
+2026,27 Jun 2026 - 23:30,Group K,,,Colombia,0,0,Portugal,,,0,0,Alireza Faghani,,,2026,537407,COL,POR
+2026,27 Jun 2026 - 23:30,Group K,,,Congo DR,3,1,Uzbekistan,,,0,1,Felix Zwayer,,,2026,537408,COD,UZB
+2026,28 Jun 2026 - 02:00,Group J,,,Jordan,1,3,Argentina,,,0,2,István Kovács,,,2026,537401,JOR,ARG
+2026,28 Jun 2026 - 02:00,Group J,,,Algeria,3,3,Austria,,,1,1,Il'giz Tantashev,,,2026,537402,ALG,AUT
+2026,28 Jun 2026 - 19:00,Round of 32,,,South Africa,0,1,Canada,,,0,0,João Pinheiro,,,2026,537417,RSA,CAN
+2026,29 Jun 2026 - 17:00,Round of 32,,,Brazil,2,1,Japan,,,0,1,Maurizio Mariani,,,2026,537423,BRA,JPN
+2026,29 Jun 2026 - 20:30,Round of 32,,,Germany,4,5,Paraguay,PENALTY_SHOOTOUT,,0,1,Jalal Jayed,,,2026,537415,GER,PAR
+2026,30 Jun 2026 - 01:00,Round of 32,,,Netherlands,3,4,Morocco,PENALTY_SHOOTOUT,,0,0,Wilton Sampaio,,,2026,537418,NED,MAR
+2026,30 Jun 2026 - 17:00,Round of 32,,,Ivory Coast,1,2,Norway,,,0,1,Jesús Valenzuela,,,2026,537424,CIV,NOR
+2026,30 Jun 2026 - 21:00,Round of 32,,,France,3,0,Sweden,,,1,0,Danny Makkelie,,,2026,537416,FRA,SWE
+2026,01 Jul 2026 - 02:00,Round of 32,,,Mexico,2,0,Ecuador,,,2,0,Slavko Vinčič,,,2026,537425,MEX,ECU
+2026,01 Jul 2026 - 16:00,Round of 32,,,England,2,1,Congo DR,,,0,1,Adham Makhadmeh,,,2026,537426,ENG,COD
+2026,01 Jul 2026 - 20:00,Round of 32,,,Belgium,3,2,Senegal,EXTRA_TIME,,0,1,Said Martinez,,,2026,537422,BEL,SEN
+2026,02 Jul 2026 - 00:00,Round of 32,,,United States,2,0,Bosnia-Herzegovina,,,1,0,Raphael Claus,,,2026,537421,USA,BIH
+2026,02 Jul 2026 - 19:00,Round of 32,,,Spain,3,0,Austria,,,1,0,Glenn Nyberg,,,2026,537420,ESP,AUT
+2026,02 Jul 2026 - 23:00,Round of 32,,,Portugal,2,1,Croatia,,,0,0,Espen Eskås,,,2026,537419,POR,CRO
+2026,03 Jul 2026 - 03:00,Round of 32,,,Switzerland,2,0,Algeria,,,1,0,Yael Falcón,,,2026,537429,SUI,ALG
+2026,03 Jul 2026 - 18:00,Round of 32,,,Australia,3,5,Egypt,PENALTY_SHOOTOUT,,0,1,Gustavo Tejera,,,2026,537428,AUS,EGY
+2026,03 Jul 2026 - 22:00,Round of 32,,,Argentina,3,2,Cape Verde Islands,EXTRA_TIME,,1,0,Drew Fischer,,,2026,537427,ARG,CPV
+2026,04 Jul 2026 - 01:30,Round of 32,,,Colombia,1,0,Ghana,,,1,0,Clément Turpin,,,2026,537430,COL,GHA
+2026,04 Jul 2026 - 17:00,Round of 16,,,Canada,0,3,Morocco,,,0,0,Michael Oliver,,,2026,537376,CAN,MAR
+2026,04 Jul 2026 - 21:00,Round of 16,,,Paraguay,0,1,France,,,0,0,Il'giz Tantashev,,,2026,537375,PAR,FRA
+2026,05 Jul 2026 - 20:00,Round of 16,,,Brazil,1,2,Norway,,,0,0,Ismail Elfath,,,2026,537377,BRA,NOR
+2026,06 Jul 2026 - 01:00,Round of 16,,,Mexico,2,3,England,,,1,2,Alireza Faghani,,,2026,537378,MEX,ENG
+2026,06 Jul 2026 - 19:00,Round of 16,,,Portugal,0,1,Spain,,,0,0,Anthony Taylor,,,2026,537379,POR,ESP
+2026,07 Jul 2026 - 00:00,Round of 16,,,United States,1,4,Belgium,,,1,2,Adham Makhadmeh,,,2026,537380,USA,BEL
+2026,07 Jul 2026 - 16:00,Round of 16,,,Argentina,3,2,Egypt,,,0,1,François Letexier,,,2026,537381,ARG,EGY
+2026,07 Jul 2026 - 20:00,Round of 16,,,Switzerland,4,3,Colombia,PENALTY_SHOOTOUT,,0,0,Ivan Barton,,,2026,537382,SUI,COL
+2026,09 Jul 2026 - 20:00,Quarter-finals,,,France,2,0,Morocco,,,0,0,Facundo Tello,,,2026,537383,FRA,MAR
+2026,10 Jul 2026 - 19:00,Quarter-finals,,,Spain,2,1,Belgium,,,1,1,Michael Oliver,,,2026,537384,ESP,BEL
+2026,11 Jul 2026 - 21:00,Quarter-finals,,,Norway,1,2,England,EXTRA_TIME,,1,1,Clément Turpin,,,2026,537385,NOR,ENG
+2026,12 Jul 2026 - 01:00,Quarter-finals,,,Argentina,3,1,Switzerland,EXTRA_TIME,,1,0,João Pinheiro,,,2026,537386,ARG,SUI
+2026,14 Jul 2026 - 19:00,Semi-finals,,,France,0,2,Spain,,,0,1,Ivan Barton,,,2026,537387,FRA,ESP
+2026,15 Jul 2026 - 19:00,Semi-finals,,,England,1,2,Argentina,,,0,0,Ismail Elfath,,,2026,537388,ENG,ARG
+2026,18 Jul 2026 - 21:00,Third place,,,France,4,6,England,,,0,4,Jesús Valenzuela,,,2026,537389,FRA,ENG
+2026,19 Jul 2026 - 19:00,Final,,,Spain,1,0,Argentina,EXTRA_TIME,,0,0,Slavko Vinčič,,,2026,537390,ESP,ARG
