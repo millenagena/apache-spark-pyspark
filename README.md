@@ -49,8 +49,8 @@ Siga os notebooks na ordem. Cada um termina com `spark.stop()`, que encerra a se
 ## Onde rodar cada comando
 
 - **Terminal do seu computador:** os comandos `docker compose`.
-- **Terminal do Jupyter** (File > New > Terminal): `python`, `pytest` e `spark-submit`. Entre antes em `~/work`, que
-  é a pasta do projeto dentro do container.
+- **Terminal do Jupyter** (File > New > Terminal): `python` e `spark-submit`. Entre antes em `~/work`, que é a pasta
+  do projeto dentro do container.
 
 ## Dados
 
