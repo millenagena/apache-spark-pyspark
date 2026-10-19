@@ -1,0 +1,11 @@
+# saidas geradas pelos notebooks e pelo pipeline (podem ser apagadas e recriadas pelo codigo)
+data/out/
+data/warehouse/
+data/externas/
+
+# arquivos temporarios do Jupyter, do Python e do Spark
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
