@@ -13,7 +13,7 @@ Este repositório traz o ambiente (Docker), os dados e os notebooks do curso. O 
 | 1 | Introdução ao Spark | o ambiente no ar e a primeira leitura dos dados |
 | 2 | Transformações com DataFrames | dados limpos e as primeiras estatísticas, em `src/wc_pipeline/transformacoes.py` |
 | 3 | Spark SQL | consultas em SQL para o time de analytics, em `sql/` |
-| 4 | Otimização | um relatório mais rápido e as medições em `docs/otimizacao.md` |
+| 4 | Otimização | os passes de cada seleção em cada Copa, a partir do feed de eventos, na tabela `copa.passes_por_copa` |
 | 5 | Escrita e pipeline | o pipeline completo em `src/wc_pipeline/pipeline.py`, rodando com `spark-submit` |
 
 ## Estrutura
@@ -28,7 +28,7 @@ apache-spark-pyspark-big-data/
 └── notebooks/           os notebooks de cada aula, um por vídeo
 ```
 
-Ao longo do curso aparecem as pastas `sql/` e `docs/`, criadas pelos notebooks, e as saídas em `data/out/`,
+Ao longo do curso aparece a pasta `sql/`, criada pelos notebooks, e as saídas em `data/out/`,
 `data/warehouse/` e `data/externas/`. As saídas ficam fora do git: são geradas pelo código e podem ser apagadas e
 recriadas a qualquer momento.
 
