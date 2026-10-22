@@ -38,11 +38,20 @@ Fontes, unidas pela data e pelas duas seleções:
   e substituições, de 1930 a 2022. © 2023 Joshua C. Fjelstul, Ph.D. Licença
   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
   https://github.com/jfjelstul/worldcup
-- Planilhas `WorldCups.csv`, `WorldCupMatches.csv` e `WorldCupPlayers.csv` publicadas por Andre Becklas (CC0), de
-  1930 a 2014. Público, intervalo, assistentes e a ficha de 1930 a 1966.
-- Wyscout, Copa de 2018 inteira: passes, chutes, duelos, faltas e tiros livres. Pappalardo et al., licença
+- Planilhas `WorldCups.csv`, `WorldCupMatches.csv` e `WorldCupPlayers.csv` publicadas por Andre Becklas no Kaggle
+  (conjunto "FIFA World Cup", CC0), de 1930 a 2014. Público, intervalo, assistentes e a ficha de 1930 a 1966.
+- Wyscout, Copa de 2018 inteira: passes, chutes, duelos, faltas e tiros livres. Pappalardo et al. (2019), "A public
+  data set of spatio-temporal match events in soccer competitions", Scientific Data. Licença
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- StatsBomb Open Data: a Copa de 2022 inteira e 19 partidas mais antigas, com os mesmos tipos de lance.
+- StatsBomb Open Data: a Copa de 2022 inteira e 19 partidas mais antigas, com os mesmos tipos de lance. Fonte dos
+  dados: StatsBomb. Uso sujeito ao acordo de uso do StatsBomb Open Data (`LICENSE.pdf` do repositório), que pede para
+  citar a StatsBomb como fonte e usar o logo dela ao publicar análises feitas com esses dados.
+  https://github.com/statsbomb/open-data
+- Football-data.org: a Copa de 2026 em `raw_2026/`. https://www.football-data.org
+
+Os arquivos de `raw/` e `events/` foram montados a partir dessas fontes, com mudanças de formato para o curso. Como
+incluem dados do Fjelstul World Cup Database, eles são distribuídos sob a mesma licença,
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 Como em todo dado que chega de fora, os arquivos do fornecedor não vêm perfeitos. Fique de olho.
 
