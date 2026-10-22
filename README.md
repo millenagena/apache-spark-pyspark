@@ -13,7 +13,7 @@ Este repositório traz o ambiente (Docker), os dados e os notebooks do curso. O 
 | 1 | Introdução ao Spark | o ambiente no ar e a primeira leitura dos dados |
 | 2 | Transformações com DataFrames | dados limpos e as primeiras estatísticas, em `src/wc_pipeline/transformacoes.py` |
 | 3 | Spark SQL | consultas em SQL para o time de analytics, em `sql/` |
-| 4 | Otimização | os passes de cada seleção em cada Copa, a partir do feed de eventos, na tabela `copa.passes_por_copa` |
+| 4 | Otimização | os passes de cada seleção nas Copas de 2018 e 2022, a partir do feed de eventos, na tabela `copa.passes_por_copa` |
 | 5 | Escrita e pipeline | o pipeline completo em `src/wc_pipeline/pipeline.py`, rodando com `spark-submit` |
 
 ## Estrutura
