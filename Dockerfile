@@ -10,7 +10,7 @@ RUN python -m pip install --no-cache-dir "pandas<3" pyspark==4.2.0 importlib_met
  && python -m pip install --no-cache-dir delta-spark==4.4.0 --no-deps
 USER ${NB_UID}
 
-# Baixa uma vez o jar do Delta para o cache do Ivy dentro da imagem, com a mesma funcao que o notebook extra do Delta usa:
+# Baixa uma vez o jar do Delta para o cache do Ivy dentro da imagem, com a mesma funcao que as sessoes da aula 5 usam:
 # configure_spark_with_delta_pip escolhe o pacote certo para o Spark instalado (io.delta:delta-spark_4.2_2.13:4.4.0).
 # Depois disso o notebook resolve o pacote pelo cache, sem internet.
 RUN python - <<'PY'
