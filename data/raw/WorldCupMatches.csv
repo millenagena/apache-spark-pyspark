@@ -50,6 +50,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1938,14 Jun 1938 - 18:00,Quarter-finals replay,Stade du Parc Lescure,Bordeaux,Brazil,2,1,Czechoslovakia,,"18,141",0,1,Georges Capdeville,MARENCO Paul (FRA),KISSENBERGER Ernest (FRA),1938,49,BRA,CSK
 1938,16 Jun 1938 - 18:00,Semi-finals,Parc des Princes,Paris,Hungary,5,1,Sweden,,"20,000",3,1,Lucien Leclerq,VAN MOORSEL Johannes (NED),SCARPI Giuseppe (ITA),1938,50,HUN,SWE
 1938,16 Jun 1938 - 18:00,Semi-finals,Stade Vélodrome,Marseille,Italy,2,1,Brazil,,"33,000",0,0,Hans Wüthrich,BERANEK Alois (AUT),MARENCO Paul (FRA),1938,51,ITA,BRA
+1938,12 Jun 1938 - 17:00,Quarter-finals,Stade du Fort Carré,Antibes,Sweden,8,0,Cuba,,"7,000",4,0,Augustin Krist,WEINGARTNER Karl (AUT),SDEZ Victor (FRA),1938,48,SWE,CUB
 1938,19 Jun 1938 - 17:00,Third place,Stade du Parc Lescure,Bordeaux,Brazil,4,2,Sweden,,"12,000",1,2,John Langenus,OLIVE D. (FRA),VALPREDE Ferdinand (FRA),1938,52,BRA,SWE
 1938,19 Jun 1938 - 17:00,Final,Stade Olympique de Colombes,Paris,Italy,4,2,Hungary,,"45,000",3,1,Georges Capdeville,WUETHRICH Hans (SUI),KRIST Gustav (TCH),1938,53,ITA,HUN
 1950,24 Jun 1950 - 15:00,Group 1,Estádio do Maracanã,Rio de Janeiro,Brazil,4,0,Mexico,,"81,649",1,0,George Reader,GRIFFITHS Benjamin (WAL),MITCHELL George (SCO),1950,54,BRA,MEX
@@ -83,6 +84,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1954,17 Jun 1954 - 18:00,Group 2,Wankdorf Stadium,Bern,West Germany,4,1,Turkey,,"28,000",1,1,Jose da Costa Vieira,ZSOLT Istvan (HUN),MERLOTTI Armand (SUI),1954,82,DEU,TUR
 1954,17 Jun 1954 - 18:10,Group 4,St. Jakob Stadium,Basel,England,4,4,Belgium,EXTRA_TIME,"14,000",0,0,Emil Schmetzer,BUCHMUELLER Fritz (SUI),RUFFLI Willy (SUI),1954,83,ENG,BEL
 1954,19 Jun 1954 - 16:50,Group 3,St. Jakob Stadium,Basel,Uruguay,7,0,Scotland,,"34,000",2,0,Vincenzo Orlandini,WYSSLING Paul (SUI),GUIDI Denilo (SUI),1954,84,URY,SCO
+1954,17 Jun 1954 - 18:00,Group 2,Hardturm Stadium,Zürich,Hungary,9,0,South Korea,,"13,000",4,0,Raymond Vincenti,VON GUNTER Albert (SUI),STEINER Carl (AUT),1954,81,HUN,KOR
 1954,19 Jun 1954 - 17:00,Group 1,Stade Olympique de la Pontaise,Lausanne,Brazil,1,1,Yugoslavia,EXTRA_TIME,"24,637",0,0,Charlie Faultless,ELLIS Arthur (ENG),VON GUNTER Albert (SUI),1954,85,BRA,YUG
 1954,19 Jun 1954 - 17:00,Group 3,Hardturm Stadium,Zürich,Austria,5,0,Czechoslovakia,,"26,000",4,0,Vasa Stefanovic,DOERFLINGER Ernst (SUI),GULDE Josef (SUI),1954,86,AUT,CSK
 1954,19 Jun 1954 - 17:10,Group 1,Charmilles Stadium,Geneva,France,3,2,Mexico,,"19,000",1,0,Manuel Asensi,FRANKEN Laurent (BEL),BAUMBERGER Rene (SUI),1954,87,FRA,MEX
@@ -90,12 +92,14 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1954,20 Jun 1954 - 17:00,Group 2,Charmilles Stadium,Geneva,Turkey,7,0,South Korea,,"4,000",4,0,Esteban Marino,ORLANDINI Vincenzo (ITA),SCHONHOLZER Ernest (SUI),1954,89,TUR,KOR
 1954,20 Jun 1954 - 17:00,Group 4,Cornaredo Stadium,Lugano,Italy,4,1,Belgium,,"24,000",1,0,Carl Erich Steiner,VINCENTI Raymond (FRA),SCHMETZER Emil (FRG),1954,90,ITA,BEL
 1954,20 Jun 1954 - 17:10,Group 4,Wankdorf Stadium,Bern,England,2,0,Switzerland,,"43,500",1,0,István Zsolt,DA COSTA VIEIRA Jose (POR),STEFANOVIC Vasa (YUG),1954,91,ENG,CHE
+1954,20 Jun 1954 - 16:50,Group 2,St. Jakob Stadium,Basel,Hungary,8,3,West Germany,,"56,000",3,1,William Ling,SCHICKER Werner (SUI),GRIFFITHS Benjamin (WAL),1954,88,HUN,DEU
 1954,23 Jun 1954 - 18:00,Group 2,Hardturm Stadium,Zürich,West Germany,7,2,Turkey,,"17,000",3,1,Raymond Vincenti,FAULTLESS Charlie (SCO),DOERFLINGER Ernst (SUI),1954,92,DEU,TUR
 1954,23 Jun 1954 - 18:00,Group 4,St. Jakob Stadium,Basel,Switzerland,4,1,Italy,,"30,000",1,0,Sandy Griffiths,DA COSTA VIEIRA Jose (POR),LING William (ENG),1954,93,CHE,ITA
 1954,26 Jun 1954 - 17:00,Quarter-finals,Stade Olympique de la Pontaise,Lausanne,Austria,7,5,Switzerland,,"35,000",5,4,Charlie Faultless,ASENSI Manuel (ESP),SCHMETZER Emil (FRG),1954,94,AUT,CHE
 1954,26 Jun 1954 - 17:00,Quarter-finals,St. Jakob Stadium,Basel,Uruguay,4,2,England,,"28,000",2,1,Carl Erich Steiner,STEFANOVIC Vasa (YUG),ORLANDINI Vincenzo (ITA),1954,95,URY,ENG
 1954,27 Jun 1954 - 17:00,Quarter-finals,Wankdorf Stadium,Bern,Hungary,4,2,Brazil,,"40,000",2,1,Arthur Edward Ellis,LING William (ENG),WYSSLING Paul (SUI),1954,96,HUN,BRA
 1954,27 Jun 1954 - 17:00,Quarter-finals,Charmilles Stadium,Geneva,West Germany,2,0,Yugoslavia,,"17,000",1,0,István Zsolt,FRANKEN Laurent (BEL),BUCHMUELLER Fritz (SUI),1954,97,DEU,YUG
+1954,26 Jun 1954 - 17:00,Quarter-finals,Stade Olympique de la Pontaise,Lausanne,Austria,7,5,Switzerland,,"35,000",5,4,Charlie Faultless,ASENSI Manuel (ESP),SCHMETZER Emil (FRG),1954,94,AUT,CHE
 1954,30 Jun 1954 - 18:00,Semi-finals,Stade Olympique de la Pontaise,Lausanne,Hungary,4,2,Uruguay,EXTRA_TIME,"45,000",0,0,Sandy Griffiths,FAULTLESS Charlie (SCO),VINCENTI Raymond (FRA),1954,98,HUN,URY
 1954,30 Jun 1954 - 18:00,Semi-finals,St. Jakob Stadium,Basel,West Germany,6,1,Austria,,"58,000",1,0,Vincenzo Orlandini,ELLIS Arthur (ENG),BUCHMUELLER Fritz (SUI),1954,99,DEU,AUT
 1954,03 Jul 1954 - 17:00,Third place,Hardturm Stadium,Zürich,Austria,3,1,Uruguay,,"32,000",1,1,Raymond Wyssling,ZSOLT Istvan (HUN),ELLIS Arthur (ENG),1954,100,AUT,URY
@@ -315,6 +319,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1982,15 Jun 1982 - 21:00,Group 6,Estadio La Rosaleda,Málaga,Scotland,5,2,New Zealand,,"36,000",3,0,David Socha,CHAN Thomson Tam Sun (HKG),EL GHOUL Yusef Mohamed (LBY),1982,314,SCO,NZL
 1982,16 Jun 1982 - 17:15,Group 2,Estadio El Molinón,Gijón,West Germany,1,2,Algeria,,"42,000",0,0,Enrique Labo Revoredo,ARISTIZABAL MURCIA Gilberto (COL),CASARIN Paolo (ITA),1982,315,DEU,DZA
 1982,16 Jun 1982 - 17:15,Group 4,Estadio San Mamés,Bilbao,England,3,1,France,,"44,172",1,1,António Garrido,CASTRO Gaston (CHI),COELHO Arnaldo (BRA),1982,316,ENG,FRA
+1982,15 Jun 1982 - 21:00,Group 3,Nuevo Estadio,Elche,Hungary,10,1,El Salvador,,"23,000",3,0,Ibrahim Youssef Al-Doy,CORVER Charles (NED),LUND-SORENSEN Henning (DEN),1982,313,HUN,SLV
 1982,16 Jun 1982 - 21:00,Group 5,Estadio Luis Casanova,Valencia,Spain,1,1,Honduras,,"49,562",0,1,Arturo Ithurralde,DOTCHEV Bogdan (BUL),BARRANCOS Luis (BOL),1982,317,ESP,HND
 1982,17 Jun 1982 - 17:15,Group 2,Estadio Carlos Tartiere,Oviedo,Chile,0,1,Austria,,"22,500",0,1,Juan Daniel Cardellino,CASARIN Paolo (ITA),ARISTIZABAL MURCIA Gilberto (COL),1982,318,CHL,AUT
 1982,17 Jun 1982 - 17:15,Group 4,Estadio José Zorrilla,Valladolid,Czechoslovakia,1,1,Kuwait,,"25,000",1,0,Benjamin Dwomoh,MENDEZ MOLINA Romulo (GUA),VALENTINE Robert (SCO),1982,319,CSK,KWT
@@ -497,6 +502,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1994,28 Jun 1994 - 16:00,Group B,Pontiac Silverdome,Pontiac,Brazil,1,1,Sweden,,"77,217",0,1,Sándor Puhl,MARTON Sandor (HUN),MATTHYS Luc (BEL),1994,522,BRA,SWE
 1994,29 Jun 1994 - 12:30,Group F,RFK Stadium,"Washington, D.C.",Belgium,0,1,Saudi Arabia,,"52,959",0,1,Hellmut Krug,BRAZZALE Eugene (AUS),TAIBI Ernesto (ARG),1994,523,BEL,SAU
 1994,29 Jun 1994 - 12:30,Group F,Citrus Bowl,Orlando,Morocco,1,2,Netherlands,,"60,578",0,1,Alberto Tejada Noriega,ZARATE Venancio (PAR),EVERSTIG Mikael (SWE),1994,524,MAR,NLD
+1994,28 Jun 1994 - 13:00,Group B,Stanford Stadium,Stanford,Russia,6,1,Cameroon,,"74,914",3,0,Jamal Al-Sharif,DUNSTER Gordon (AUS),DOLSTRA Jan (NED),1994,521,RUS,CMR
 1994,30 Jun 1994 - 18:30,Group D,Cotton Bowl,Dallas,Argentina,0,2,Bulgaria,,"63,998",0,0,Neji Jouini,YLI-KARRO Tapio (FIN),RHARIB El Jilali Mohamed (MAR),1994,525,ARG,BGR
 1994,30 Jun 1994 - 19:30,Group D,Foxboro Stadium,Foxborough,Greece,0,2,Nigeria,,"53,001",0,1,Leslie Mottram,PARK Hae-Yong (KOR),ALVES Paulo Jorge (BRA),1994,526,GRC,NGA
 1994,02 Jul 1994 - 12:00,Round of 16,Soldier Field,Chicago,Germany,3,2,Belgium,,"60,246",3,1,Kurt Röthlisberger,LISTKIEWICZ Michal (POL),CHRISTENSEN Carl-Johan Meyer (DEN),1994,527,DEU,BEL
@@ -586,6 +592,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2002,02 Jun 2002 - 14:30,Group F,Kashima Stadium,Ibaraki,Argentina,1,0,Nigeria,,"34,050",0,0,Gilles Veissière,ARNAULT Frederic (FRA),MUELLER Heiner (GER),2002,669,ARG,NGA
 2002,02 Jun 2002 - 16:30,Group B,Busan Asiad Stadium,Busan,Paraguay,2,2,South Africa,,"25,186",1,0,Ľuboš Micheľ,SRAMKA Igor (SVK),CHARLES Curtis (ATG),2002,670,PRY,ZAF
 2002,02 Jun 2002 - 18:30,Group F,Saitama Stadium,Saitama,England,1,1,Sweden,,"52,721",1,0,Carlos Eugênio Simon,OLIVEIRA Jorge (BRA),DUPANOV Yuri (BLR),2002,671,ENG,SWE
+2002,01 Jun 2002 - 20:30,Group E,Sapporo Dome,Sapporo,Germany,8,0,Saudi Arabia,,"32,218",4,0,Ubaldo Aquino,GIACOMUZZI Miguel (PAR),RAGOONATH Michael (TRI),2002,668,DEU,SAU
 2002,02 Jun 2002 - 20:30,Group B,Gwangju World Cup Stadium,Gwangju,Spain,3,1,Slovenia,,"28,598",1,0,Mohamed Guezzaz,TOMUSANGE Ali (UGA),BEREUTER Egon (AUT),2002,672,ESP,SVN
 2002,03 Jun 2002 - 15:30,Group G,Niigata Stadium,Niigata,Croatia,0,1,Mexico,,"32,239",0,0,Jun Lu,KOMALEESWARAN Sankar (IND),ADJENGUI Taoufik (TUN),2002,673,HRV,MEX
 2002,03 Jun 2002 - 18:00,Group C,Ulsan Munsu Football Stadium,Ulsan,Brazil,2,1,Turkey,,"33,842",0,1,Young-joo Kim,KRISHNAN Visva (SIN),FERNANDEZ Vladimir (SLV),2002,674,BRA,TUR
@@ -835,6 +842,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,09 Jul 2014 - 17:00,Semi-finals,Arena Corinthians,São Paulo,Netherlands,0,0,Argentina,PENALTY_SHOOTOUT,"63,267",0,0,Cüneyt Çakır,DURAN Bahattin (TUR),ONGUN Tarik (TUR),2014,1014,NLD,ARG
 2014,12 Jul 2014 - 17:00,Third place,Estádio Nacional,Brasília,Brazil,0,3,Netherlands,,"68,034",0,2,Djamel Haimoudi,ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),2014,1015,BRA,NLD
 2014,13 Jul 2014 - 16:00,Final,Estádio do Maracanã,Rio de Janeiro,Germany,1,0,Argentina,EXTRA_TIME,"74,738",0,0,Nicola Rizzoli,Renato FAVERANI (ITA),Andrea STEFANI (ITA),2014,1016,DEU,ARG
+2014,08 Jul 2014 - 17:00,Semi-finals,Estádio Mineirão,Belo Horizonte,Brazil,1,7,Germany,,"58,141",0,5,Marco Antonio Rodríguez,TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),2014,1013,BRA,DEU
 2018,14 Jun 2018 - 18:00,Group A,Luzhniki Stadium,Moscow,Russia,5,0,Saudi Arabia,,,,,Néstor Pitana,,,2018,1069,RUS,SAU
 2018,15 Jun 2018 - 17:00,Group A,Central Stadium,Yekaterinburg,Egypt,0,1,Uruguay,,,,,Björn Kuipers,,,2018,1070,EGY,URY
 2018,15 Jun 2018 - 18:00,Group B,Krestovsky Stadium,Saint Petersburg,Morocco,0,1,Iran,,,,,Cüneyt Çakır,,,2018,1071,MAR,IRN
@@ -868,6 +876,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2018,24 Jun 2018 - 20:00,Group H,Central Stadium,Yekaterinburg,Japan,2,2,Senegal,,,,,Gianluca Rocchi,,,2018,1099,JPN,SEN
 2018,24 Jun 2018 - 21:00,Group H,Kazan Arena,Kazan,Poland,0,3,Colombia,,,,,César Arturo Ramos,,,2018,1100,POL,COL
 2018,25 Jun 2018 - 17:00,Group A,Volgograd Arena,Volgograd,Saudi Arabia,2,1,Egypt,,,,,Wilmar Roldán,,,2018,1101,SAU,EGY
+2018,24 Jun 2018 - 15:00,Group G,Nizhny Novgorod Stadium,Nizhny Novgorod,England,6,1,Panama,,,,,Gehad Grisha,,,2018,1098,ENG,PAN
 2018,25 Jun 2018 - 18:00,Group A,Samara Arena,Samara,Uruguay,3,0,Russia,,,,,Malang Diedhiou,,,2018,1102,URY,RUS
 2018,25 Jun 2018 - 20:00,Group B,Kaliningrad Stadium,Kaliningrad,Spain,2,2,Morocco,,,,,Ravshan Irmatov,,,2018,1103,ESP,MAR
 2018,25 Jun 2018 - 21:00,Group B,Mordovia Arena,Saransk,Iran,1,1,Portugal,,,,,Enrique Cáceres,,,2018,1104,IRN,PRT
@@ -913,6 +922,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2022,23 Nov 2022 - 22:00,Group F,Ahmad bin Ali Stadium,Al Rayyan,Belgium,1,0,Canada,,,,,Janny Sikazwe,,,2022,1196,BEL,CAN
 2022,24 Nov 2022 - 13:00,Group G,Al Janoub Stadium,Al Wakrah,Switzerland,1,0,Cameroon,,,,,Facundo Tello,,,2022,1197,CHE,CMR
 2022,24 Nov 2022 - 16:00,Group H,Education City Stadium,Al Rayyan,Uruguay,0,0,South Korea,,,,,Clément Turpin,,,2022,1198,URY,KOR
+2022,23 Nov 2022 - 19:00,Group E,Al Thumama Stadium,Doha,Spain,7,0,Costa Rica,,,,,Mohammed Abdulla Hassan Mohamed,,,2022,1195,ESP,CRI
 2022,24 Nov 2022 - 19:00,Group H,Stadium 974,Doha,Portugal,3,2,Ghana,,,,,Ismail Elfath,,,2022,1199,PRT,GHA
 2022,24 Nov 2022 - 22:00,Group G,Lusail Stadium,Lusail,Brazil,2,0,Serbia,,,,,Alireza Faghani,,,2022,1200,BRA,SRB
 2022,25 Nov 2022 - 13:00,Group B,Ahmad bin Ali Stadium,Al Rayyan,Wales,0,2,Iran,,,,,Mario Escobar,,,2022,1201,WAL,IRN
@@ -963,3 +973,6 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2022,14 Dec 2022 - 22:00,Semi-finals,Al Bayt Stadium,Al Khor,France,2,0,Morocco,,,,,César Arturo Ramos,,,2022,1246,FRA,MAR
 2022,17 Dec 2022 - 18:00,Third place,Khalifa International Stadium,Al Rayyan,Croatia,2,1,Morocco,,,,,Abdulrahman Al-Jassim,,,2022,1247,HRV,MAR
 2022,18 Dec 2022 - 18:00,Final,Lusail Stadium,Lusail,Argentina,3,3,France,PENALTY_SHOOTOUT,,,,Szymon Marciniak,,,2022,1248,ARG,FRA
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,

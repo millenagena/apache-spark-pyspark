@@ -13,8 +13,8 @@ Este repositório traz o ambiente (Docker), os dados e os notebooks do curso. O 
 | 1 | Introdução ao Spark | o ambiente no ar e a primeira leitura dos dados |
 | 2 | Transformações com DataFrames | dados limpos e as primeiras estatísticas, em `src/wc_pipeline/transformacoes.py` |
 | 3 | Spark SQL | consultas em SQL para o time de analytics, em `sql/` |
-| 4 | Otimização | os passes de cada seleção em cada Copa, a partir do feed de eventos, na tabela `copa.passes_por_copa` |
-| 5 | Escrita e pipeline | o pipeline completo em `src/wc_pipeline/pipeline.py`, rodando com `spark-submit` |
+| 4 | Otimização no Spark | os passes de cada seleção nas Copas de 2018 e 2022, a partir do feed de eventos, gravados em Parquet em `data/out/` |
+| 5 | Escrita e Delta Lake | as partidas e o resumo por seleção como tabelas Delta em `data/out/`, recebendo a Copa de 2026 e uma correção do fornecedor sem reprocessar tudo |
 
 ## Estrutura
 
@@ -99,8 +99,8 @@ Siga os notebooks na ordem. Cada um termina com `spark.stop()`, que encerra a se
 ## Onde rodar cada comando
 
 - **Terminal do seu computador:** os comandos `docker` e `git`.
-- **Terminal do Jupyter** (File > New > Terminal): `python` e `spark-submit`. Entre antes na pasta do projeto com
-  `cd ~/work`.
+- **Terminal do Jupyter** (File > New > Terminal): os comandos que rodam dentro do container, como `python`. Entre
+  antes na pasta do projeto com `cd ~/work`.
 
 ## Se algo der errado
 
@@ -111,6 +111,7 @@ Siga os notebooks na ordem. Cada um termina com `spark.stop()`, que encerra a se
 | o Jupyter pede uma senha ou um token | use o endereço completo, com `?token=estudo` no fim |
 | a Spark UI não abre na 4040 | ela só existe enquanto uma sessão Spark está ativa; com vários notebooks abertos, veja a porta com `spark.sparkContext.uiWebUrl` |
 | o Jupyter ficou lento ou a Spark UI foi para outra porta | use Kernel > Shut Down All Kernels para encerrar as sessões antigas |
+| na aula 5, `ClassNotFoundException` ao criar a sessão com o Delta Lake | use Kernel > Restart Kernel e rode o notebook de novo a partir da primeira célula |
 
 ### Mac e Linux
 
