@@ -7,6 +7,7 @@ Os dados que o fornecedor mandou para a Arena Analytics. Tema: Copa do Mundo mas
 | `raw/` | o histórico: 22 Copas, de 1930 a 2022, em três arquivos CSV (edições, partidas e escalações) |
 | `events/` | o feed de eventos do histórico: os lances das partidas, em Parquet |
 | `raw_2026/` | a Copa de 2026, nos mesmos três arquivos CSV do histórico |
+| `raw_2026_correcao/` | o lote de correção de 2026: as 4 partidas decididas nos pênaltis, com o placar do jogo |
 | `events_2026/` | o feed de eventos de 2026, em Parquet |
 
 ## O que tem em cada arquivo
@@ -90,6 +91,13 @@ Os mesmos três arquivos e as mesmas colunas do histórico, com 104 partidas. Di
 - a sigla da seleção é a da FIFA (`GER`, `NED`, `POR`), e não o código ISO;
 - em `WorldCupPlayers.csv`, cada partida traz a lista de inscritos de cada seleção, com a posição por extenso
   (`Goalkeeper`, `Defence`, `Midfield`, `Offence`).
+
+### `raw_2026_correcao/`: o lote de correção de 2026
+
+Só o `WorldCupMatches.csv`, com as mesmas colunas, e só as 4 partidas de 2026 decididas nos pênaltis
+(`PENALTY_SHOOTOUT`). O placar é o do jogo, sem os gols da disputa, como no histórico: Germany 1x1 Paraguay,
+Netherlands 1x1 Morocco, Australia 1x1 Egypt e Switzerland 0x0 Colombia. As outras colunas são as mesmas de
+`raw_2026/`. Com a correção, 2026 fica com 308 gols.
 
 ### `events_2026/`: o feed de eventos de 2026
 

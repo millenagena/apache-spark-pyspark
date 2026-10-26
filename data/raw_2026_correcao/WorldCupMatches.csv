@@ -1,0 +1,5 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials
+2026,29 Jun 2026 - 20:30,Round of 32,,,Germany,1,1,Paraguay,PENALTY_SHOOTOUT,,0,1,Jalal Jayed,,,2026,537415,GER,PAR
+2026,30 Jun 2026 - 01:00,Round of 32,,,Netherlands,1,1,Morocco,PENALTY_SHOOTOUT,,0,0,Wilton Sampaio,,,2026,537418,NED,MAR
+2026,03 Jul 2026 - 18:00,Round of 32,,,Australia,1,1,Egypt,PENALTY_SHOOTOUT,,0,1,Gustavo Tejera,,,2026,537428,AUS,EGY
+2026,07 Jul 2026 - 20:00,Round of 16,,,Switzerland,0,0,Colombia,PENALTY_SHOOTOUT,,0,0,Ivan Barton,,,2026,537382,SUI,COL
