@@ -1,4 +1,4 @@
-# Apache Spark com PySpark para Big Data
+# Apache Spark com PySpark: do DataFrame ao Delta Lake
 
 Projeto do curso de Spark com PySpark da Alura. Você faz parte do time de dados da **Arena Analytics**, uma empresa
 que produz estatísticas de Copa do Mundo para transmissões de TV e de streaming, e vai construir com Spark o
@@ -19,7 +19,7 @@ Este repositório traz o ambiente (Docker), os dados e os notebooks do curso. O 
 ## Estrutura
 
 ```
-apache-spark-pyspark-big-data/
+apache-spark-pyspark/
 ├── Dockerfile           a receita da imagem do curso (Jupyter, Python, Java e Spark 4.2)
 ├── docker-compose.yml   como subir o container
 ├── .gitignore           o que não vai para o git (as saídas que o código gera)
@@ -58,8 +58,8 @@ rodar qualquer comando `docker`.
 O ponto de partida do curso está na branch `aula-0`. Com o git:
 
 ```bash
-git clone -b aula-0 https://github.com/millenagena/apache-spark-pyspark-big-data.git
-cd apache-spark-pyspark-big-data
+git clone -b aula-0 https://github.com/millenagena/apache-spark-pyspark.git
+cd apache-spark-pyspark
 ```
 
 Sem o git: no GitHub, escolha a branch `aula-0`, use **Code > Download ZIP**, descompacte e abra o terminal dentro
