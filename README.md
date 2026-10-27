@@ -1,4 +1,4 @@
-# Apache Spark com PySpark: do DataFrame ao Delta Lake
+# Apache Spark com PySpark
 
 Projeto do curso de Spark com PySpark da Alura. Você faz parte do time de dados da **Arena Analytics**, uma empresa
 que produz estatísticas de Copa do Mundo para transmissões de TV e de streaming, e vai construir com Spark o
