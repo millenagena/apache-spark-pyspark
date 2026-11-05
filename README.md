@@ -14,7 +14,7 @@ Este repositório traz o ambiente (Docker), os dados e os notebooks do curso. O 
 | 2 | Transformações com DataFrames | dados limpos e as primeiras estatísticas, em `src/wc_pipeline/transformacoes.py` |
 | 3 | Spark SQL | consultas em SQL para o time de analytics, em `sql/` |
 | 4 | Otimização no Spark | os passes de cada seleção nas Copas de 2018 e 2022, a partir do feed de eventos, gravados em Parquet em `data/out/` |
-| 5 | Escrita e Delta Lake | as partidas e o resumo por seleção como tabelas Delta em `data/out/`, recebendo a Copa de 2026 e uma correção do fornecedor sem reprocessar tudo |
+| 5 | Escrita e Delta Lake | as partidas e o resumo por seleção como tabelas Delta em `data/out/`, com a carga em `src/wc_pipeline/carga.py`, recebendo a Copa de 2026 e uma correção do fornecedor sem reprocessar tudo |
 
 ## Estrutura
 
