@@ -1,4 +1,4 @@
-# Apache Spark com PySpark
+# Apache Spark com PySpark: do DataFrame ao Delta Lake
 
 Projeto do curso de Spark com PySpark da Alura. Você faz parte do time de dados da **Arena Analytics**, uma empresa
 que produz estatísticas de Copa do Mundo para transmissões de TV e de streaming, e vai construir com Spark o
@@ -23,6 +23,7 @@ apache-spark-pyspark/
 ├── Dockerfile           a receita da imagem do curso (Jupyter, Python, Java e Spark 4.2)
 ├── docker-compose.yml   como subir o container
 ├── .gitignore           o que não vai para o git (as saídas que o código gera)
+├── .gitattributes       mantém as quebras de linha iguais em qualquer sistema
 ├── data/                os dados do fornecedor (veja data/README.md)
 ├── src/wc_pipeline/     o código do projeto (começa só com os schemas dos arquivos)
 └── notebooks/           os notebooks de cada aula, um por vídeo
@@ -65,6 +66,9 @@ cd apache-spark-pyspark
 Sem o git: no GitHub, escolha a branch `aula-0`, use **Code > Download ZIP**, descompacte e abra o terminal dentro
 da pasta.
 
+As branches `aula-1` a `aula-5` trazem o projeto como ele fica no fim de cada aula, com o código e as saídas. Use para
+conferir o seu caminho ou para recomeçar de uma aula.
+
 ## Subir o ambiente
 
 No terminal do seu computador (PowerShell no Windows, Terminal no Mac e no Linux), dentro da pasta do projeto:
@@ -91,10 +95,11 @@ continua lá depois do `docker compose down`.
 
 ## Conferir o ambiente
 
-No Jupyter, abra `notebooks/01_introducao_spark/02_preparando_o_ambiente.ipynb` e rode as células. Se aparecer
-`Spark: 4.2.0`, está tudo certo.
+No Jupyter, abra `notebooks/01_introducao_spark/02_preparando_o_ambiente.ipynb` e rode as células. Se a célula da
+sessão mostrar a SparkSession com a versão `v4.2.0`, está tudo certo.
 
-Siga os notebooks na ordem. Cada um termina com `spark.stop()`, que encerra a sessão Spark e libera a memória.
+Siga os notebooks na ordem. Os que abrem uma sessão Spark terminam com `spark.stop()`, que encerra a sessão e libera
+a memória.
 
 ## Onde rodar cada comando
 
