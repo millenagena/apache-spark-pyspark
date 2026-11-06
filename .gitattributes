@@ -1,0 +1,12 @@
+# mantém as quebras de linha do Linux (LF) em qualquer sistema, inclusive no Windows:
+# o Dockerfile e os scripts do container dependem disso
+* text=auto eol=lf
+
+# os dados do fornecedor ficam exatamente como vieram, sem conversão
+*.csv -text
+
+# arquivos binários: o Git não mexe neles
+*.parquet binary
+*.png binary
+*.jpg binary
+*.zip binary
